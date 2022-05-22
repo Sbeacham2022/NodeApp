@@ -1,0 +1,26 @@
+{
+  "name": "nodeapp",
+  "version": "1.0.0",
+  "description": "HEllo world",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sbeacham2022/NodeApp.git"
+  },
+  "author": "stephen beacham",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sbeacham2022/NodeApp/issues"
+  },
+  "homepage": "https://github.com/Sbeacham2022/NodeApp#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "mocha": "^10.0.0",
+    "supertest": "^6.2.3"
+  }
+}
