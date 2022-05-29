@@ -3,7 +3,7 @@ const express = require("express");
 
 const app = express();
 
-// Respond with "hello world" for requests that hit our root "/"
+// Respond with "H E L L O  W O R L D!" for requests that hit our root "/"
 app.get("/", function (req, res) {
  return res.send("Hello World, time to start deing");
 });
